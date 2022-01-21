@@ -1,3 +1,10 @@
+
+# Compétences visées
+| Compétences   | Niveau  |
+|---|---|
+|  Développer les composants d’accès aux données | niveau 2  |
+| Développer la partie back-end d’une application web ou web mobile  | niveau 2  |
+
 # Contexte du projet
 créer un module permettant de dire bonjour dans la langue sélectionner
 
@@ -24,8 +31,3 @@ Ce module comporte 2 interface utilisateur:
 
       - Valide le formulaire
 ```
-
-| Compétences   | Niveau  |
-|---|---|
-|  Développer les composants d’accès aux données | niveau 2  |
-| Développer la partie back-end d’une application web ou web mobile  | niveau 2  |
