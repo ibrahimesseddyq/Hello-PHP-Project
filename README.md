@@ -9,7 +9,8 @@
 créer un module permettant de dire bonjour dans la langue sélectionner
 
 Ce module comporte 2 interface utilisateur:
-**Admin :**:
+
+**Admin :**
 ```
 - Permets de gérer la traduction de "bonjour" pour chaque langue créée
 
